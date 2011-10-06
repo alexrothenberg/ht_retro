@@ -2,7 +2,7 @@ require 'rubygems'
 require 'bundler'
 Bundler.setup
 
-require 'hoptoad_retro.rb'
+require 'ht_retro.rb'
 
 RSpec.configure do |config|
   config.color_enabled = true
